@@ -1,0 +1,138 @@
+2
+win_from_pass
+place L at B2
+place U at B3
+place N at B4
+place E at B5
+place done
+place S at D5
+place C at D4
+place B at D3
+place done
+place E at C5
+place done
+place A at E4
+place T at F4
+place done
+place R at F5
+place O at F6
+place L at F7
+place F at F8
+place done
+place E at G8
+place D at H8
+place D at E3
+place done
+place I at G5
+place O at H5
+place V at I5
+place T at J5
+place done
+place S at I4
+place E at I3
+place L at I2
+place done
+place H at E5
+place R at E6  
+place I at E7
+place O at E8
+place N at E9
+place U at E10
+place I at E11
+place done
+place N at H2
+place D at G2
+Place E at F2
+place T at E2
+place done
+replace Q
+place E at J6
+place K at J7
+place A at K8
+place O at K9
+place done
+place T at D10
+place N at F10
+place A at G10
+place done
+place U at O0
+place I at N0
+place E at M0
+place O at L0
+place done
+replace G
+place J at J9
+place Q at L9
+place R at M9
+place done
+place D at L8
+place done
+place A at M8
+place M at N8
+place done
+place U at J10
+place R at J11
+place done
+place A at N9
+place A at N10
+place N at N11
+place Y at N12
+place done
+pass
+place L at D11
+place P at F11
+place S at G11
+place done
+place R at L1
+place E at L2
+place done
+place A at J12
+place T at J13
+place done 
+place E at I13
+place S at H13
+place done
+place M at L3
+place A at L4
+place N at L5
+place I at L6
+place done
+place I at K1
+place done
+place F at J1
+place C at M1
+place E at O1
+place done
+replace I
+place W at O2
+place B at O3
+place G at O4
+place done
+place P at C6
+place O at C7
+place done
+place X at C8
+place Y at C9
+place done
+replace I
+replace V
+place A at G12
+place R at G13
+place T at G14
+place done
+place W at A12
+place O at A13
+place G at A14
+place done
+place Z at K4
+place G at M4
+place done
+place O at I14
+place V at J14
+place done
+place E at K14
+place H at L14
+place done
+pass
+pass
+pass

@@ -1,0 +1,29 @@
+2
+4playerwordcheck
+place r at g4
+place o at g5
+place s at g6
+place e at g7 
+place done
+place a at f4
+place w at e4
+place done
+place p at h4
+place done
+place e at i4
+place d at j4
+place done
+place u at h6
+place n at i6
+place done
+place a at i7
+place n at i8
+place done
+pass
+replace k
+place f at j8
+place t at k8
+place done
+place o at j8
+place x at j9
+place done
