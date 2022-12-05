@@ -1,4 +1,4 @@
-# apt-assign2
+# CPP text based Scrabble Group Project
 
 See `Class.md` for a rundown on how each file works
 
@@ -34,7 +34,7 @@ See `Class.md` for a rundown on how each file works
 
     - To run the code, enter the following command into the terminal: `./scrabble`
 
-## How to run the Test Cases (!! Test Cases only work for the original milestone 2 code)
+## How to run the Test Cases (!! Test Cases only work for an older version)
     - end_mid_game
         - In this test the game terminates midgame because the code reaches the end of file.
         - To run the code, input the following command into the terminal: `./scrabble < TestCases/end_mid_game.input > TestCases/end_mid_game.gameout`
